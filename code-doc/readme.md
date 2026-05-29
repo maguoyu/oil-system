@@ -249,7 +249,7 @@ pudong/
 │
 ├── oil-pvg-data-share/          # 数据共享平台（Angular 15.x）
 │
-├── doc/                         # 项目文档
+├── code-doc/                         # 项目文档
 │   ├── readme.md               # 项目说明文档
 │   ├── code/                   # 代码分析文档
 │   └── bug/                    # Bug分析文档

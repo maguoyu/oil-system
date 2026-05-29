@@ -1,7 +1,7 @@
 # 加油系统业务数据梳理重新分析报告
 
 生成时间：2026-05-29  
-分析对象：`doc/加油系统业务数据梳理.xlsx`
+分析对象：`prd/加油系统业务数据梳理.xlsx`
 
 ## 1. 结论
 
@@ -25,10 +25,10 @@
 
 已提取图片到本地目录：
 
-- `doc/oil_design_images/overview.png`
-- `doc/oil_design_images/data_classification_tech.png`
-- `doc/oil_design_images/data_classification_business_tech.png`
-- `doc/oil_design_images/fueling_flow.png`
+- `prd/oil_design_images/overview.png`
+- `prd/oil_design_images/data_classification_tech.png`
+- `prd/oil_design_images/data_classification_business_tech.png`
+- `prd/oil_design_images/fueling_flow.png`
 
 这个发现会影响评价：这些 Sheet 不是内容缺失，而是内容表达方式不利于维护、检索和追踪。
 
